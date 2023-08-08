@@ -1,5 +1,11 @@
 ## **Olá! Eu sou o Marcelo Gonçalves** ✌️
 
+<p>
+Analista de Dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia📊💻. Com pós-graduação em Estratégias de Negócios e Inovação Empresarial🧑‍💼, sou um profissional com habilidades de destreza digital🌐, aprendizado contínuo🔥 e trabalho em equipe🧍🧍‍♀️🧍.
+ Possuo sólidas habilidades técnicas em Python🐍, SQL🗃️ e Power BI💹, fundamentais para a análise e visualização de dados.
+    
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelosg)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 )](https://medium.com/@marcelo_sg)
