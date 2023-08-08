@@ -1,7 +1,9 @@
 ## **Olá! Eu sou o Marcelo Gonçalves** ✌️
 
 <p>
-Analista de Dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia📊💻. Com pós-graduação em Estratégias de Negócios e Inovação Empresarial🧑‍💼, sou um profissional com habilidades de destreza digital🌐, aprendizado contínuo🔥 e trabalho em equipe🧍🧍‍♀️🧍.
+
+ Analista de Dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia📊💻. Com pós-graduação em Estratégias de Negócios e Inovação Empresarial🧑‍💼, sou um profissional com habilidades de destreza digital🌐, aprendizado contínuo🔥 e trabalho em equipe🧍🧍‍♀️🧍.
+
  Possuo sólidas habilidades técnicas em Python🐍, SQL🗃️ e Power BI💹, fundamentais para a análise e visualização de dados.
     
 </p>
