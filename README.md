@@ -39,10 +39,15 @@
 
 ## Projetos relevantes:
 
-- Projeto 1:
-- Projeto 2:
-- Projeto 3:
+- Projeto 1: [Análise de campanha de marketing](https://www.kaggle.com/code/marcelosgoncalves/an-lise-de-campanha-de-marketing);
+- Projeto 2: [Apresentação da análise de campanha de marketing](https://www.canva.com/design/DAFtq98pj5U/AzUt8WggpT1kHpQk1L0azA/view?utm_content=DAFtq98pj5U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink);
+- Projeto 3: [Análise exploratória de dados enntregas Loggi](https://www.kaggle.com/code/marcelosgoncalves/an-lise-de-dados-entregas-loggi);
+- Projeto 4: [Automação de sistema de protocolo do Governo do Estado do Pará](https://github.com/marcelo-silva-goncalves/automacao-sistema-protocolo);
 
+
+### Para pensarmos:
+
+Não espere estar motivado todos os dias para chegar lá e fazer as coisas acontecerem. Você não estará. Não conte com a motivação. Conte com a disciplina." - Jocko Willink
 
 
  
