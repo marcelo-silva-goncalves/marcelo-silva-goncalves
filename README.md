@@ -4,13 +4,11 @@
 
  Analista de Dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia📊💻. Com pós-graduação em Estratégias de Negócios e Inovação Empresarial🧑‍💼, sou um profissional com habilidades de destreza digital🌐, aprendizado contínuo🔥 e trabalho em equipe🧍🧍‍♀️🧍.
 
- Possuo sólidas habilidades técnicas em Python🐍, SQL🗃️ e Power BI💹, fundamentais para a análise e visualização de dados.
+ Possuo sólidas habilidades técnicas em Python🐍 e Power BI💹, fundamentais para a análise e visualização de dados.
     
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelosg)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)](https://medium.com/@marcelo_sg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/marceloun8)
 
@@ -22,8 +20,6 @@
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img aling="center" alt="SQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img aling="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img aling="center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <img aling="center" alt="<img aling="center"alt="Data Studio" src="https://uploads-ssl.webflow.com/5e4d384f88d1d12b1caadce4/622fcac8c45d3c63683e3969_google-data-studio-logo.png" width="125" height="28""/>
 <img aling="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
